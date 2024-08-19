@@ -1,0 +1,8 @@
+{
+    "name": "Dev Coin04",
+    "symbol": "DEV04",
+    "uri": "https://ipfs.io/ipfs/QmdRLVqBYjvzk4iHhGLNe1vgSXbmuzg2QrdXwrh7NoSJDL?filename=dev01-meta.json",
+    "sellerFeeBasisPoints": 0,
+    "decimals": 8,
+    "isMutable": true
+}
